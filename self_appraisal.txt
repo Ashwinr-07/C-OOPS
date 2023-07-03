@@ -1,0 +1,22 @@
+
+Employee 1
+8
+6
+8
+4
+Employee 4
+6
+6
+6
+7
+Employee 2
+5
+6
+7
+8
+
+Employee 3
+6
+7
+2
+7
